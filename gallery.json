@@ -1,0 +1,48 @@
+[
+    {
+      "src": "img/html.png",
+      "alt": "html",
+      "caption": "This is the logo of HTML"
+    },
+    {
+        "src": "img/css3.png",
+        "alt": "css3",
+        "caption": "This is the logo of CSS3"
+    },
+    {
+        "src": "img/bootstrap.png",
+        "alt": "bootstrap",
+        "caption": "This is the logo of Bootstrap"
+    },
+    {
+        "src": "img/js.png",
+        "alt": "JavaScript",
+        "caption": "This is the logo of JavaScript"
+    },
+    {
+        "src": "img/python.png",
+        "alt": "facebook",
+        "caption": "This is the logo of Python"
+      },
+      {
+          "src": "img/django.png",
+          "alt": "tiktok",
+          "caption": "This is the logo of Django"
+      },
+      {
+          "src": "img/sqldb.png",
+          "alt": "Instagram",
+          "caption": "This is the logo of SQLDB"
+      },
+      {
+          "src": "img/git.png",
+          "alt": "Zoom",
+          "caption": "This is the logo of git"
+      },
+      {
+        "src": "img/vue.png",
+        "alt": "Spotify",
+        "caption": "This is the logo of VueJS"
+    }     
+  ]
+  
